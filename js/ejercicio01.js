@@ -15,7 +15,7 @@ console.log("El valor de la variable misApellidos es =", misApellidos)
 miNombre="Harold Alexis";
 console.log("Hola, ",miNombre, misApellidos)
 
-//2. Declaracion de Variables utilizando el prefijo CONST
+//2. Delaracion de Variables utilizando el prefijo CONST
 console.warn("-- Declarcion de Variables utilizando el prefijo CONST --")
 
 //La palabra reservada CONST nos permite a nivel memoria reservar espacion para almacenar datos de una constante 
